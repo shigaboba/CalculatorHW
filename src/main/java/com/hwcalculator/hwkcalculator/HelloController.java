@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/calculator")
 public class HelloController {
-
     private final CalculatorOperations calculatorOperations;
 
     public HelloController(CalculatorOperations calculatorOperations){
