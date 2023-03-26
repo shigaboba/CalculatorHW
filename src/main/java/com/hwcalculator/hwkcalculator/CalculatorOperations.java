@@ -8,7 +8,7 @@ import java.lang.annotation.Repeatable;
 @Service
 public class CalculatorOperations {
     public String hello(){
-        return "Добро пожаловать в калькулятор";
+        return "Добро пожаловать в Калькулятор";
     }
 
     public String plus (int num1, int num2){
