@@ -45,5 +45,4 @@ public class CalculatorOperations {
         }
         else return "Введите оба параметра";
     }
-
 }
