@@ -38,6 +38,4 @@ public class HelloController {
     public String divide (@RequestParam int num1, @RequestParam int num2){
         return calculatorOperations.divide(num1, num2);
     }
-
-
 }

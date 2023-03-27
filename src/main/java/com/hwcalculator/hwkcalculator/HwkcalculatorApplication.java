@@ -9,5 +9,4 @@ public class HwkcalculatorApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(HwkcalculatorApplication.class, args);
 	}
-
 }
